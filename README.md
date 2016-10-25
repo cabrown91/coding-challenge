@@ -1,5 +1,5 @@
 #Coding Challenge
----
+
 ###Objective
 To design a RESTful JSON API for data for talks at a conference and attendees for GACon.
 
