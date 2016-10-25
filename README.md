@@ -4,7 +4,7 @@
 To design a RESTful JSON API for data for talks at a conference and attendees for GACon.
 
 ###Features Included
-API endpoints:
+###API endpoints:
 1. /api/talks (a route to get a list of all talks at the conference)
 2. /api/attendees (a route to get a list of all attendees at the conference (independently of talks))
 
