@@ -22,7 +22,7 @@ To design a RESTful JSON API for data for talks at a conference and attendees fo
 ###To Run Locally
 1. Clone the repo
 2. Run ```npm install``` in your terminal to install dependencies (Node.js and Express.js)
-3. run ```nodemon``` in your terminal to run the server
+3. Run ```nodemon``` in your terminal to run the server
 4. Navigate to Localhost:3000 in your browser
 5. Navigate to Localhost:3000/api/talks to view the list of all talks at the conference
 6. Navigate to Localhost:3000/api/attendees to view the list of all attendees a the conference
