@@ -30,7 +30,7 @@ app.get('/', function homepage(req, res) {
 app.get('/api', function api_index(req, res) {
   // TODO: Document all your api endpoints below
   res.json({
-    message: "Welcome to my personal api! Here's what you need to know!",
+    message: "Conferences App API",
     documentationUrl: "https://github.com/cabrown91/coding-challenge",
     // baseUrl: "https://stark-dawn-84023.herokuapp.com/",
     endpoints: [
