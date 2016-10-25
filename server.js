@@ -3,10 +3,22 @@ var express = require('express'),
     app = express();
 
 
+
+
+
+
+
+
+
+/**********
+ * ROUTES *
+ **********/
+
 /*
  * HTML Endpoints
  */
 
+//landing page serves up html file
 app.get('/', function homepage(req, res) {
   res.sendFile(__dirname + '/views/index.html');
 });
