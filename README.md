@@ -14,12 +14,12 @@ API endpoints:
 2. Express.js (to build API routes)
 
 ##Instructions
-#To View on Heroku
+###To View on Heroku
 1. Navigate to https://whispering-hollows-37604.herokuapp.com in your browser
 2. Navigate to https://whispering-hollows-37604.herokuapp.com/api/talks to view the list of all talks at the conference
 3. Navigate to https://whispering-hollows-37604.herokuapp.com/api/attendees to view the list of all attendees a the conference
 
-#To Run Locally
+###To Run Locally
 1. Clone the repo
 2. run ```nodemon``` in your terminal to run the server
 3. Navigate to Localhost:3000 in your browser
