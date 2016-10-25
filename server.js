@@ -42,7 +42,7 @@ app.get('/api', function api_index(req, res) {
 });
 
 
-app.get('/api/talks', function(req, res) {
+app.get('/talks', function(req, res) {
   res.json({
     talks: [
       {
@@ -71,7 +71,7 @@ app.get('/api/talks', function(req, res) {
 });
 
 
-app.get('/api/attendees', function(req, res) {
+app.get('/attendees', function(req, res) {
   res.json({
     "attendees": [
       {
